@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections upon a passage concerning the light within, in a book entituled, Primitive heresie, &amp;c. / by Edmund Elys.</title>
+            <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03294</idno>
+            <idno type="STC">Wing E687A</idno>
+            <idno type="STC">ESTC R221228</idno>
+            <idno type="EEBO-CITATION">51784527</idno>
+            <idno type="OCLC">ocm 51784527</idno>
+            <idno type="VID">174937</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03294)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174937)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2706:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections upon a passage concerning the light within, in a book entituled, Primitive heresie, &amp;c. / by Edmund Elys.</title>
+                  <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leslie, Charles, 1650-1722. --  Primitive heresie revived.</term>
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Inner light --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174937:1"/>
+            <pb n="1" facs="tcp:174937:1" rendition="simple:additions"/>
+            <head>REFLECTIONS Upon a Paſſage Concerning The Light Within, In a Book Entituled, <hi>Primitive Hereſie,</hi> &amp;c.</head>
+            <byline>By <hi>EDM<g ref="char:V">Ʋ</g>ND ELYS.</hi>
+            </byline>
+            <p>HAving moſt diligently Obſerved the Principles and Practi<g ref="char:EOLhyphen"/>ces of the People called <hi>Quakers</hi> above Thirty Years, I think it my Duty to Declare to the World, that I have grounds to Believe, that a Multitude of Perſons of that Denomination do moſt Sincerely Adhear to the FOUNDATION of the Chri<g ref="char:EOLhyphen"/>ſtian Religion; <hi>i. e.</hi> they have a Right Notion of the <hi>Divine Eſ<g ref="char:EOLhyphen"/>ſence and Attributes,</hi> they Believe that the <hi>Father</hi> is God, the Son is God, and the Holy Ghoſt is God, and yet there is but One God; they Believe that God the Son hath Redeemed Them, and All Mankind; that it is Poſſible for them at any time, through CHRIST Enabling them, to Abſtain from any Sin, to which they have the Strongeſt Temptations from the <hi>Devil,</hi> the <hi>World,</hi> and the <hi>Fleſh;</hi> that <hi>
+                  <g ref="char:V">Ʋ</g>ſually, or Habitually</hi> they are in ſuch a Tem<g ref="char:EOLhyphen"/>per of Heart and Mind, that they would rather chooſe to lay down their Lives, than be Guilty of any KNOWN Sin of Com<g ref="char:EOLhyphen"/>miſſion, or Omiſſion. And upon this Account, I cannot but have a <hi>Brotherly Love,</hi> or Extraordinary Fervent Affection for Many of them; this being a Truth to me moſt Evident and Unqueſtionable, that theſe People called QUAKERS deſerve more Favour than any other Sort of DISSENTERS from All
+<pb n="2" facs="tcp:174937:2"/> Perſons throughout the World, who make their Solemn VO<g ref="char:EOLhyphen"/>CAL Confeſſion of the Chriſtian Faith in that Form of Words, which we call the NICENE CREED. What they mean by <hi>The Light within</hi> is nothing elſe but what is Imply'd in thoſe moſt Im<g ref="char:EOLhyphen"/>portant Words, LIGHT OF LIGHT; That is to ſay, <hi>The True and Eternal God, The Son of the True and Eternal God:</hi> If CHRIST be LIGHT ESSENTIAL, <hi>As</hi> GOD <hi>the Father is</hi> LIGHT, His Perſon, or HE <hi>Himſelf</hi> muſt of Neceſſity Be in all Rational Souls as the FOUNTAIN <hi>of Light;</hi> So that nothing in the Soul of Man can be truly and properly called LIGHT, but what is DERIV<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>D from Him. I Rejoyce with Joy <hi>
+                  <g ref="char:V">Ʋ</g>nſpeakable,</hi> to find a Multitude of Illiterate Perſons ſo clearly Apprehenſive of my Meaning, when I Write, or Diſcourſe of this moſt Profound VE<g ref="char:EOLhyphen"/>RITY, of which I perceive this Learned Perſon, the Author of the <hi>Snake in the Graſs,</hi> has yet but a very <hi>Defective Speculation:</hi> Some <hi>Glimmerings</hi> of it I ſee he has. I do, <hi>in the Face of the Sun</hi> (not Challenge him to Diſpute with me, but) moſt Earneſt<g ref="char:EOLhyphen"/>ly Entreat him to Peruſe all the Papers that have been Publiſh'd for me by <hi>Tho. Northcott</hi> and <hi>T. Sowle:</hi> And if he ſhall Diſſent from any thing I have Aſſerted in any of thoſe Papers, I ſhall with great Importunity Requeſt him to Publiſh what he takes to be a Reaſon for his Diſſent: I ſhall here, <hi>with all Meekneſs,</hi> ſhew his great Miſtake in one Paſſage in his late Book, Entituled, <hi>Pri<g ref="char:EOLhyphen"/>mitive Hereſie,</hi> &amp;c. p. 13. <q>All this <hi>Wild Extravagance</hi> is a Natu<g ref="char:EOLhyphen"/>ral Conſequence of their <hi>Common</hi> Principle, and Notion of the <hi>Light within,</hi> as ſuch an <hi>Abſolute Rule, and Judge,</hi> that is not to be Controuled by Scripture, or any Law or Rule whatſoever: Which leaves every Man in ſuch an Unlimited Latitude, that there is no <hi>Reſtraint</hi> to whatever the <hi>Wildeſt Imagination</hi> (ſo it be ſtrong enough) can ſuggeſt: Nor any Cure (upon their Foundation) but to bid him follow it ſtill on, Liſten to that <hi>wi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hin</hi> you. That is all their <hi>Advice</hi> and all their <hi>Rule.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſw.</hi> 'Tis Impoſſible that what they Declare to be the <hi>Light Within</hi> ſhould be Contrary to the <hi>Holy Scriptures,</hi> it being nothing elſe but CHRIST Himſelf, and what Comes Immediately from Him into Our Souls for our Sanctification. A Learned <hi>Forreigner</hi> that Writes Againſt R. BARCLAY is ſo Juſt, as to Recite this Proteſtation of the ſaid <hi>R. B.</hi> 
+               <q xml:lang="lat">
+                  <hi>Se cum Suis Doctrinas, &amp; Mores</hi>
+                  <pb n="3" facs="tcp:174937:2"/>
+                  <hi>ſuos libentiſſime Examini earum <hi>(S. Scripturarum)</hi> concedere, &amp; hoc tanquam poſitivum &amp; certum admittere ex animo Principium, ut quodcun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> quis praedicans ſe <hi>Spiritu duci</hi> contrarium Scriptura perpetret, Deluſio &amp; Machinatio Diabolica exiſtimetur.</hi> That he, and thoſe of his Religion, are willing their Doctrines and Practices ſhould be tryed by the Holy Scriptures, and to ad<g ref="char:EOLhyphen"/>mit, as a poſitive and certain Maxim, that whatſoever any do, pretending to be led by the Spirit, which is contrary to the Holy Scriptures, ſhould be reputed a Deluſion of the Devil.</q>
+            </p>
+            <p>They give the Beſt Advice that can be given, that bid us Hearken to the VOICE <hi>of God</hi> in our own Hearts; or <hi>to Fol<g ref="char:EOLhyphen"/>low the Light within.</hi> If any, pretending to follow the Light, <hi>Walk in Darkneſs,</hi> that is no Proof, that <hi>The Light within them</hi> was not ſufficient to lead them in the Way of Righteouſneſs; but it ſhews that through the Perverſneſs of their WILL they Avert their UNDERSTANDING from a due Perception of <hi>the Light,</hi> the Fountain of All Truth and Goodneſs. I ſuppoſe my Honour'd Friend <hi>W. P.</hi> may Publiſh an Anſwer to what this Learned Man Expoſtulates with him about <hi>The Light within;</hi> and therefore at preſent I ſhall only ſay, that I am glad ſo Ingenious a Per<g ref="char:EOLhyphen"/>ſon has Involv'd himſelf in a kind of Neceſſity of Contending with me on a Point of ſo great Importance to all Mankind, which by Others is only Huff'd and Scoff'd at: I Deſire he would take particular Notice of my Paper, Entituled, <q>
+                  <hi>A Let<g ref="char:EOLhyphen"/>ter to the Author of a Book, Entituled, An Anſwer to</hi> W. Penn's <hi>KEY, about the</hi> Quakers LIGHT WITHIN.</q>
+            </p>
+            <closer>The Good LORD lift up the Light of his Countenance upon <g ref="char:V">Ʋ</g>s, that in His Light we may ſee Light. ἜΡΧΟΥ ΚΎΡΙΕ ἸΗΣΟ.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
